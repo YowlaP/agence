@@ -1,10 +1,9 @@
 # Agence
 
-Projet Java - MIAGE L2 S2 - Modélisation Orientée Objet
+Modélisation orientée objet d'une agence bancaire en Java.
 
 ## Contenu
 
-### TP4 - Agence bancaire avec héritage
 - `Compte` : Classe abstraite de base
 - `CompteParticulier` / `CompteEntreprise` : Spécialisations par type de client
 - `CompteNumerote` : Compte avec numéro unique
