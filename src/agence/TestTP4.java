@@ -1,4 +1,4 @@
-package tp4;
+package agence;
 
 public class TestTP4 {
     public static void main(String[] args) {

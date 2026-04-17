@@ -1,4 +1,4 @@
-package tp4;
+package agence;
 
 public class CompteParticulier extends Compte {
     private String nom;

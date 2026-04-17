@@ -1,4 +1,4 @@
-package tp4;
+package agence;
 
 public class CompteEntreprise extends Compte {
     private String raisonSociale;

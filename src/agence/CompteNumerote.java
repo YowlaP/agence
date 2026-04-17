@@ -1,4 +1,4 @@
-package tp4;
+package agence;
 
 public class CompteNumerote extends CompteParticulier {
     private static int nid = 100000; // compteur statique des comptes numérotés

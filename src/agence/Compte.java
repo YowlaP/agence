@@ -1,4 +1,4 @@
-package tp4;
+package agence;
 
 public abstract class Compte {
     private float solde;
